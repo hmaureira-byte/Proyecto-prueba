@@ -7,7 +7,8 @@
 ---
 
 ## 📌 Integrante del Grupo
-- Helen Maureira Barrenechea – Desarrollo completo de la prueba
+- **Helen Maureira Barrenechea:** Ejercicio 1, Anteproyecto (LaTeX) e Informe final.
+- **Renato Fernandez:** Ejercicios 2, 3, 4 y 5.
 
 ---
 

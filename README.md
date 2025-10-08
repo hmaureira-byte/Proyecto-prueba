@@ -50,9 +50,7 @@ pdflatex main.tex
 
 Datasets usados
 
-# Datasets usados
-
-**Ejercicio 1:**  
+**Ejercicio 1:** 
 - **Iris (CSV):** dataset clásico de flores con medidas de sépalo y pétalo, disponible en [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris).  
 - **JSON/Text:** ejemplo de datos no estructurados para comparar con CSV.
 

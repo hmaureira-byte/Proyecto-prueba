@@ -50,15 +50,23 @@ pdflatex main.tex
 
 Datasets usados
 
-Ejercicio 1: Dataset CSV (Iris) + Dataset JSON/texto.
+# Datasets usados
 
-Ejercicio 2: Dataset >200MB desde Kaggle/UTEM Drive.
+**Ejercicio 1:**  
+- **Iris (CSV):** dataset clásico de flores con medidas de sépalo y pétalo, disponible en [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris).  
+- **JSON/Text:** ejemplo de datos no estructurados para comparar con CSV.
 
-Ejercicio 3: Dataset de ejemplo (se definirá).
+**Ejercicio 2:**  
+- **AirQualityUCI (>200MB):** dataset de calidad del aire obtenido desde Kaggle/UTEM Drive. Contiene mediciones de contaminantes y variables meteorológicas.
 
-Ejercicio 4: Subconjunto del dataset anterior para visualización.
+**Ejercicio 3:**  
+- **Dataset de ejemplo:** se utilizará un dataset tabular para comparar Pandas y PySpark. Puede ser un subconjunto del dataset de calidad del aire o uno similar disponible públicamente.
 
-Ejercicio 5: Subconjunto linealmente separable de Iris.
+**Ejercicio 4:**  
+- **Subconjunto del dataset anterior:** se extrae un subconjunto para generar visualizaciones con Matplotlib, Seaborn y Plotly, facilitando análisis gráfico y comparación de librerías.
+
+**Ejercicio 5:**  
+- **Subconjunto linealmente separable de Iris:** se seleccionan algunas clases de Iris para entrenar y visualizar un perceptrón binario.
 
 
 

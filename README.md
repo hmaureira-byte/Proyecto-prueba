@@ -12,31 +12,30 @@
 
 ---
 
-## 📂 Estructura del repositorio
-📦 Proyecto-prueba
-┣ 📂 notebooks # Notebooks de cada ejercicio
+## Estructura del repositorio
+Proyecto-prueba
+┣ notebooks # Notebooks de cada ejercicio
 ┃ ┣ ejercicio1_datos_estructurados.ipynb
 ┃ ┣ ejercicio2_pandas_vs_dask.ipynb
 ┃ ┣ ejercicio3_pandas_vs_pyspark.ipynb
 ┃ ┣ ejercicio4_visualizacion.ipynb
 ┃ ┗ ejercicio5_perceptron.ipynb
-┣ 📂 informe # Informe en LaTeX
+┣ informe # Informe en LaTeX
 ┃ ┣ main.tex
 ┃ ┗ main.pdf
-┣ 📂 data # Datasets pequeños o enlaces
+┣ data # Datasets pequeños o enlaces
 ┃ ┗ README.md
 ┣ README.md # Este archivo
 ┗ requirements.txt # Librerías necesarias
 
 ---
 
-## 🚀 Flujo de trabajo en Git
-- Se trabajó en una sola rama (`main`) dado que el desarrollo fue individual.
-- Commits descriptivos (ejemplo: `add limpieza dataset ejercicio1`).
+## Flujo de trabajo en Git
+- Se trabajó en una sola rama (`main`).
 
 ---
 
-## 🛠️ Instalación y ejecución
+## Instalación y ejecución
 
 ### 1. Clonar el repositorio
 ```bash
@@ -51,7 +50,7 @@ pdflatex main.tex
 
 Datasets usados
 
-Ejercicio 1: Dataset CSV (ejemplo: Iris) + Dataset JSON/texto.
+Ejercicio 1: Dataset CSV (Iris) + Dataset JSON/texto.
 
 Ejercicio 2: Dataset >200MB desde Kaggle/UTEM Drive.
 

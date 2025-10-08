@@ -51,7 +51,7 @@ pdflatex main.tex
 
 Datasets usados
 
-Ejercicio 1: Dataset CSV (ejemplo: Iris) + Dataset JSON/texto.
+Ejercicio 1: Dataset CSV (Iris) + Dataset JSON/texto.
 
 Ejercicio 2: Dataset >200MB desde Kaggle/UTEM Drive.
 
